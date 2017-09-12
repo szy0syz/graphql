@@ -4,7 +4,7 @@
   "description": "graphql",
   "main": "index.js",
   "scripts": {
-    "start": "babel-node ./CH_1/01_04/server.js"
+    "start": "babel-node ./CH_1/01_05/server.js"
   },
   "repository": {
     "type": "git",
