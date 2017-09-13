@@ -8,6 +8,7 @@ const schema = buildSchema(`
     gender: String
     language: String
     email: String
+    IDTyped: String
   }
 
   type Query {

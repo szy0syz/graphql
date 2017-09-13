@@ -14,8 +14,9 @@ const root = { friend: (args) => {
       "firstName": "Jerry",
       "lastName": "Shi",
       "gender": "Male",
-      "language": "Chinexe",
+      "language": "Chinese",
       "email": "szy0syz@gmail.com",
+      "IDTyped": args.id
   }
 }};
 
